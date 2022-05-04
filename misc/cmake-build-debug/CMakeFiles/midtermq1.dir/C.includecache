@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matta/CLionProjects/midtermq1/items.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+items.h
+C:/Users/matta/CLionProjects/midtermq1/items.h
+randomindex.h
+C:/Users/matta/CLionProjects/midtermq1/randomindex.h
+
+C:/Users/matta/CLionProjects/midtermq1/items.h
+
+C:/Users/matta/CLionProjects/midtermq1/question2.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/matta/CLionProjects/midtermq1/randomindex.h
+

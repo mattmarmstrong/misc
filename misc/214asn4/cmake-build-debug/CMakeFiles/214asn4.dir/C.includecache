@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matta/CLionProjects/214asn4/214asn4q1.c
+stdio.h
+-
+math.h
+-
+
+C:/Users/matta/CLionProjects/214asn4/214asn4q3.c
+stdio.h
+-
+string.h
+-
+
